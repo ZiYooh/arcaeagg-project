@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import { hot } from 'react-hot-loader'
 
 function App() {
   return (
